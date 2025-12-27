@@ -1,1 +1,2 @@
 # CUSTOMER-CHURN-DATASET
+##The Customer Churn dataset contains customer demographic, account, and service usage information used to analyze customer retention and attrition patterns. It includes features such as customer tenure, subscription plans, service types, billing details, payment methods, and churn status. The dataset enables identification of key drivers of churn, customer behavior trends, and risk segments, supporting data-driven strategies to improve customer retention and reduce revenue loss.
